@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SPAGHETTI",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-02T12:21:49.409786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Youpi (Space Spaghetti Mix)",
+      "artist": "Cornu",
+      "has_synced": false,
+      "path": "select/01_Youpi_(Space_Spaghetti_Mix)_Cornu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mum's Spaghetti",
+      "artist": "Cloud Control",
+      "has_synced": false,
+      "path": "select/02_Mum's_Spaghetti_Cloud_Control.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spaghetti Junction",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/03_Spaghetti_Junction_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C'mon and Get My Love (Spaghetti Western mix)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/04_C'mon_and_Get_My_Love_(Spaghetti_Western_mix)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C’mon and Get My Love (Spaghetti Western mix)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/05_C’mon_and_Get_My_Love_(Spaghetti_Western_mix)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flying Spaghetti Monster",
+      "artist": "Doctor P feat. Cecile Charlton",
+      "has_synced": true,
+      "path": "select/06_Flying_Spaghetti_Monster_Doctor_P_feat._Cecile_Charlton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flying Spaghetti Monster",
+      "artist": "Doctor P / Cecile Charlton",
+      "has_synced": true,
+      "path": "select/07_Flying_Spaghetti_Monster_Doctor_P___Cecile_Charlton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spaghetti",
+      "artist": "Fredo",
+      "has_synced": true,
+      "path": "select/08_Spaghetti_Fredo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spaghetti Junction Explicit",
+      "artist": "Outkast",
+      "has_synced": false,
+      "path": "select/09_Spaghetti_Junction_Explicit_Outkast.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spaghetti",
+      "artist": "The Dead South",
+      "has_synced": true,
+      "path": "select/10_Spaghetti_The_Dead_South.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flying Spaghetti Monster",
+      "artist": "Doctor P",
+      "has_synced": true,
+      "path": "select/11_Flying_Spaghetti_Monster_Doctor_P.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On Top of Spaghetti",
+      "artist": "Tom Glazer",
+      "has_synced": true,
+      "path": "select/12_On_Top_of_Spaghetti_Tom_Glazer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPAGHETTI",
+      "artist": "LE SSERAFIM, j-hope",
+      "has_synced": false,
+      "path": "select/pl_01_SPAGHETTI_LE_SSERAFIM,_j-hope.txt"
+    }
+  ]
+}
